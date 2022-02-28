@@ -1,0 +1,37 @@
+body{
+ margin: 0;
+ padding: 0;
+ background: #f5f5dd;
+ height: 100vh;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.shopping-cart {
+display: flex;
+width: 1000px;
+ height: 700px;
+margin: 100px auto;
+  background: #fbfdff;
+  box-shadow:0px 25px 30px rgba(78, 81, 87, 0.87);
+  border-radius: 10px; 
+  flex-direction: column;
+} 
+
+button {
+ border: none; 
+ outline:  none; 
+ padding: 8px 20px;
+ margin: 5px 30px 0 5px; 
+ color: whitesmoke;  
+ background: black;  } 
+ #totale-price{
+  display: flex; 
+   margin: auto; 
+   padding-left: 100px; 
+   padding-top: 100px;
+ }
+ .container { 
+   margin: 50px;
+ }
